@@ -5,7 +5,7 @@ Greetings life form!
 If you've found this file, congrats, and welcome to the headquarters of the team who's working on building a brand new city for Orion RolePlay &amp; Plots
 
 # Collaboration
-If you want to help, open an issue titled "Write Access" and I'll see about adding you as a contributor/collaborator on this GitHub repo, as well as in-game
+If you want to help, open an issue titled "Write Access" and I'll see about adding you as a contributor/collaborator on this GitHub repo.
 I (Clik), or Noah, will ask you some questions, and determine if you need/are allowed access to create, edit and add on to the files, or if we merely need to merge your ideas into the files ourselves.
 
 # In-Game Building
