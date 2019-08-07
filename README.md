@@ -17,4 +17,4 @@ All Builders we hire MUST have GitHub and Discord, so they are able to see curre
 
 # Picture Template
 
-<a align="center"><img src="https://ibb.co/Ycqk9gq"></img></a>
+<a href="https://ibb.co/Ycqk9gq"><img src="https://i.ibb.co/bs8Bht8/City-Template-Overhead.jpg" alt="City-Template-Overhead" border="0"></a>
