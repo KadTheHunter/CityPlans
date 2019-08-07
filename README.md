@@ -14,4 +14,7 @@ All Builders we hire MUST have GitHub and Discord, so they are able to see curre
  
 # Collaborators:
 @LegoFan48737
-@Soap2953
+
+# Picture Template
+
+<a align="center"><img src="https://ibb.co/Ycqk9gq"></img></a>
