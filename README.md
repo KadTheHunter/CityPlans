@@ -1,12 +1,12 @@
 # CityPlans
-City Planning for Orion RolePlay &amp; Plots
+City Planning for Nebula Games
 
 Greetings life form!
-If you've found this file, congrats, and welcome to the headquarters of the team who's working on building a brand new city for Orion RolePlay &amp; Plots
+If you've found this file, congrats, and welcome to the headquarters of the team who's working on building Wayland City
 
 # Collaboration
 If you want to help, open an issue titled "Write Access" and I'll see about adding you as a contributor/collaborator on this GitHub repo.
-I (Clik), or Noah, will ask you some questions, and determine if you need/are allowed access to create, edit and add on to the files, or if we merely need to merge your ideas into the files ourselves.
+I (Jes'kad), or Soap, will ask you some questions, and determine if you need/are allowed access to create, edit and add on to the files, or if we merely need to merge your ideas into the files ourselves.
 
 # In-Game Building
 If you want to apply to be a Builder, open an issue titled "Builder Access" and we will ask you some questions, and arrange a time to introduce you to the City itself.
@@ -14,6 +14,7 @@ All Builders we hire MUST have GitHub and Discord, so they are able to see curre
  
 # Collaborators:
 @LegoFan48737
+@Soap2953
 
 # Picture Template
 
