@@ -15,10 +15,15 @@ Previously we brought people on-board as they asked to be brought on, but now we
 Designated by @Name, Rank, Building Role
 
 @KadTheHunter - Owner, Main Builder
+
 @WeatherNerd142 - Enforcer, General Builder
+
 @DRCH16 - Player, General Builder
+
 @BlueNinja123447 - Enforcer, Random Details & Corrections
+
 @RexRed252807 - VIP, General Builder
+
 @Alexcraft760 - Player, Trees & Scholars
 
 # Ideas Generator
