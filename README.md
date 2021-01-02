@@ -9,13 +9,18 @@ If you want to help, open an issue using the "Write Access" template and I'll se
 I (Jes'kad), will ask you some questions, and determine if you need/are allowed access to create, edit and add on to the files, or if we merely need to merge your ideas into the files ourselves.
 
 # In-Game Building
-Previously we brought people on-board as they asked to be brought on, but now we're doing it different. Kaddi of course has access to the City, and is the main Builder. DRCH16 and WeatherNerd142 are pretty much second-in-command for the City. Enforcers have access but are asked not to build anything unless Kaddi approves it. Everyone else is hand picked. If you think you should be on the team, open an issue using the Build Access template, but please note: Kaddi is keeping the team to people he knows n trusts, and thus won't accept random people.
+Previously we brought people on-board as they asked to be brought on, but now we're doing it different. Kaddicus of course has access to the City, and is the main Builder. DRCH16 and WeatherNerd142 are pretty much second-in-command for the City. Enforcers have access but are asked not to build anything  overly large/permanent unless Kaddicus approves it. VIPs have access to the City, but are asked not to Build anything unless Kaddicus approves it.
  
 # Collaborators/Builders:
-@KadTheHunter
-@WeatherNerd142
-@DRCH16
+Designated by @Name, Rank, Building Role
 
-# Picture Template
+@KadTheHunter - Owner, Main Builder
+@WeatherNerd142 - Enforcer, General Builder
+@DRCH16 - Player, General Builder
+@BlueNinja123447 - Enforcer, Random Details & Corrections
+@RexRed252807 - VIP, General Builder
+@Alexcraft760 - Player, Trees & Scholars
 
+# Ideas Generator
+This is not how we're making the city look, just an image we use for ideas.
 <a align="center" href="https://ibb.co/Ycqk9gq"><img src="https://i.ibb.co/bs8Bht8/City-Template-Overhead.jpg" alt="City-Template-Overhead" border="0"></a>
