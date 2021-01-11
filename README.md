@@ -21,20 +21,6 @@ No textures are required, and typically none are used by the main builders. This
 
 Honestly this is a tough question, as we're mostly winging it. Inspiration comes from personal recollection of buildings we've seen in real life, as well as from google searches either for a certain type of building, or for that building in minecraft.
 
-# Collaborators/Builders:
-Designated by @Name, Rank, Building Role
-
-@KadTheHunter - Owner, Main Builder
-
-@WeatherNerd142 - Enforcer, General Builder
-
-@DRCH16 - Player, General Builder
-
-@BlueNinja123447 - Enforcer, Random Details & Corrections
-
-@RexRed252807 - VIP, General Builder
-
-@Alexcraft760 - Player, Trees & Scholars
 
 # Ideas Generator
 This is not how we're making the city look, just an image we use for ideas.
