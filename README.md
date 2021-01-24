@@ -1,3 +1,6 @@
+# NOTE
+Construction on the city is temporarily halted, due to the fact that Kaddicus' laptop has become an absolute potato, and he can barely build anymore. When he gets a PC (which should be soon), construction will resume.
+
 # CityPlans
 City Planning for City Build 2 (Nebulian Wayland 8, Orionian Wayland 2, XOHR City... 4? 5? (XOHR was a mess anyway so whatever))
 
