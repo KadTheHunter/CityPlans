@@ -7,6 +7,7 @@ If you've found this file, congrats, and welcome to the headquarters of the team
 ## Collaboration
 If you want to help, open an issue using the "Write Access" template and I'll see about adding you as a contributor/collaborator on this GitHub repo.
 I (Jes'kad), will ask you some questions, and determine if you need/are allowed access to create, edit and add on to the files, or if we merely need to merge your ideas into the files ourselves.
+
 Current active Collaborators:
 - KadTheHunter
 - RexRed252807
@@ -26,7 +27,7 @@ No textures are required, and typically none are used by the main builders. This
 Honestly this is a tough question, as we're mostly winging it. Inspiration comes from personal recollection of buildings we've seen in real life, as well as from google searches either for a certain type of building, or for that building in minecraft. We also use various Schematics as needed. For more on that see the Schematics header.
 
 ## Schematics
-We use various Schematics, particularly for Trees, Shrubbery, and other Outdoor/Nature related needs. Schematics of Buildings and other large structures are credited in-game we'll have a file here with credit as well soon).
+We use various Schematics, particularly for Trees, Shrubbery, and other Outdoor/Nature related needs. Schematics of Buildings and other large structures are credited in-game (we'll have a file here with credit as well soon).
 
 ## Ideas Generator
 This is not how we're making the city look, just an image we use for ideas.
