@@ -1,3 +1,5 @@
+<a href="https://discord.gg/kMCYT7vda7"><img src="https://discordapp.com/api/guilds/804468935646642227/embed.png" alt="Discord server"/></a>
+
 # CityPlans
 City Planning for City Build 2 (Nebulian Wayland 8, Orionian Wayland 2, XOHR City... 4? 5? (XOHR was a mess anyway so whatever))
 
