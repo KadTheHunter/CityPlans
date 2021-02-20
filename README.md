@@ -28,8 +28,6 @@ No textures are required, and typically none are used by the main builders. This
 
 Honestly this is a tough question, as we're mostly winging it. Inspiration comes from personal recollection of buildings we've seen in real life, as well as from google searches either for a certain type of building, or for that building in minecraft. We also use various Schematics as needed. For more on that see the Schematics header.
 
-## Schematics
-We use various Schematics, particularly for Trees, Shrubbery, and other Outdoor/Nature related needs. Schematics of Buildings and other large structures are credited in-game. Trees, Shrubbery and other Outdoor Terrain & Accessories schematic files are stored [here](https://github.com/KadTheHunter/CityPlans/tree/master/Schematics/Trees), and a detailed list of them is [here](https://github.com/KadTheHunter/CityPlans/blob/master/Schematics/Trees/TreesInfo.md).
 
 ## Ideas Generator
 This is not how we're making the city look, just an image we use for ideas.
