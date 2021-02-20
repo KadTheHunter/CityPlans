@@ -26,7 +26,7 @@ No textures are required, and typically none are used by the main builders. This
 
 - What style is the City/What are inspirations used?
 
-Honestly this is a tough question, as we're mostly winging it. Inspiration comes from personal recollection of buildings we've seen in real life, as well as from google searches either for a certain type of building, or for that building in minecraft. We also use various Schematics as needed. For more on that see the Schematics header.
+Honestly this is a tough question, as we're mostly winging it. Inspiration comes from personal recollection of buildings we've seen in real life, as well as from google searches either for a certain type of building, or for that building in minecraft. We also use various Schematics as needed.
 
 
 ## Ideas Generator
