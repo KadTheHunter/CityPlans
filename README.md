@@ -1,9 +1,4 @@
-# ARCHIVED
-This repo is now archived. The server is dead and I've just given up on this. 
-
-
-
-<a href="https://discord.gg/kMCYT7vda7"><img src="https://discordapp.com/api/guilds/804468935646642227/embed.png" alt="Discord server"/></a> Minecraft PE IP|Port: mchangout.ml|25568
+<a href="https://discord.gg/KnzYM5ymdJ"><img src="https://discordapp.com/api/guilds/819665770920542209/embed.png" alt="Discord server"/></a> Minecraft PE IP|Port: mchangout.ml|27670
 # CityPlans
 City Planning for City Build 2 (Nebulian Wayland 8, Orionian Wayland 2, XOHR City... 4? 5? (XOHR was a mess anyway so whatever))
 
