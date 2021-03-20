@@ -11,7 +11,7 @@ I (Jes'kad), will ask you some questions, and determine if you need/are allowed 
 
 Current active Collaborators:
 - KadTheHunter
-- RexRed252807
+- RedChain1987
 - EllisIsMe
 - DRCH16
 
